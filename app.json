@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "barefencing",
+    "slug": "barefencing",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
